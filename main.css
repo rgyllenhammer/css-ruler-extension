@@ -1,0 +1,20 @@
+#ruler{
+    position: absolute;
+    height: 40px;
+    background-color:#F5F55A;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    z-index: 1000;
+}
+
+.vertical{
+    float: left;
+    border-left: 1px solid red;
+    height: 50%;
+}
+
+.vertical-long{
+    float: left;
+    border-left: 1px solid black;
+    height: 100%;
+}
